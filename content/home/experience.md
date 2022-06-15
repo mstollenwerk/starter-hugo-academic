@@ -30,14 +30,7 @@ experience:
     date_start: '2017-04-01'
     date_end: ''
     description: |2-
-        Teaching tutorials in
-
-        * Advanced Econometrics,
-        * Financial Econometrics,
-        * Empirical Finance,
-        * Inferential Statistics,
-        * Advanced Macroeconomics and
-        * Empirical Economics.
+        Teaching tutorials in Advanced Econometrics, Financial Econometrics, Empirical Finance, Inferential Statistics, Advanced Macroeconomics and Empirical Economics.
 
   - title: Research Assistant
     company: University of Cologne
