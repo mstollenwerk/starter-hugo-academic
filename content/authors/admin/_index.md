@@ -55,6 +55,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/mstollenwerk
+- icon: stackoverflow
+  icon_pack: ai
+  link: https://stackexchange.com/users/5189435/stollenm?tab=accounts
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/michael-stollenwerk-0642338a/
