@@ -37,7 +37,7 @@ abstract: We propose a new dynamic principal component CAW model (DPC-CAW) for t
 tags: [Realized Volatility, Covariance Matrix, Spectral Decomposition, Time-Series Models]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
