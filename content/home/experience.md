@@ -39,7 +39,7 @@ experience:
     location: Germany
     date_start: '2016-10-10'
     date_end: '2017-03-31'
-    description: Taught Inferential Statistics.
+    description: Teaching: *Inferential Statistics*.
 
 design:
   columns: '2'
