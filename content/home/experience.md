@@ -25,7 +25,7 @@ experience:
   - title: Research Associate
     company: HeidelbergUniversity
     company_url: ''
-    company_logo: org-gc
+    company_logo: SiegelUniHeidelberg
     location: Germany
     date_start: '2017-04-01'
     date_end: ''
