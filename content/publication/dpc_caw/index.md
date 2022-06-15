@@ -1,17 +1,17 @@
 ---
-title: 'Dynamic principal component CAW models for high-dimensional realized covariance matrices'
+title: 'Dynamic Principal Component CAW Models for High-Dimensional Realized Covariance Matrices'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Bastian Gribisch
+  - admin
 
 # Author notes (optional)
-#author_notes:
-#  - 'Equal contribution'
-#  - 'Equal contribution'
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: "2020-01-29T00:00:00Z"
 doi: "https://doi.org/10.1080/14697688.2019.1701197"
