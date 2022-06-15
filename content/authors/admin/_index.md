@@ -14,7 +14,7 @@ organizations:
   url: https://www.uni-heidelberg.de/fakultaeten/wiso/awi/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are financial econometrics, risk management and portfolio optimization.
+bio: My research interests are financial econometrics, specifically quantitative risk management and portfolio optimization.
 
 # Interests to show in About widget
 interests:
