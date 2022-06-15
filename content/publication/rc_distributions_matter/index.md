@@ -36,7 +36,7 @@ abstract: Realized covariance matrices (RCs) are an important input to asses the
 tags: [Realized Covariance Matrices, Generalized Autoregressive Score Models, Matrix Distributions, Time-Series Models]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
