@@ -22,11 +22,11 @@ publishDate: "2022-06-15T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+#publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 #publication: In *Quantitative Finance*
-#publication_short: In *QF*
+publication_short: *Working Paper*
 
 abstract: Realized covariance matrices (RCs) are an important input to asses the risks involved in different investment allocations and it is thus useful to model and forecast them. To this end generalized autoregressive score (GAS) models are employed in this paper. These models are ideal for comparing different probability distributions in terms of their ability to model and forecast RCs, since the dynamic parameters of the conditional observation density are updated by incorporating the shape of the distribution itself (via the scaled score of the log-likelihood). All probability distributions so far applied to time series of RCs in the literature are compared and it is shown how they are related to each other. Furthermore a novel family of probability distribution, which has a property called "tail homogeneity", is derived and added to the comparison. The necessary inputs for the GAS models (Fisher information matrix and score) are derived for all distributions. An in-sample fit comparison confirms previous results that "fat-tailed" distributions outperform others and shows that the novel distribution family achieves very good fit. Out-of-sample forecasting comparisons further corroborate the excellent performance of the novel distribution family.
 
