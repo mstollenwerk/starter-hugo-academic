@@ -73,6 +73,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student at the Alfred-Weber-Institute for Economics in Heidelberg. My research interests are financial econometrics, portfolio optimization and risk management.
+I am a PhD student at the Alfred-Weber-Institute for Economics at Heidelberg University. My research interests are financial econometrics, portfolio optimization and risk management.
 
 [//]: # ({{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)
