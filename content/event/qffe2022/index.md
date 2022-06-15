@@ -4,7 +4,7 @@ title: Probability Distributions and GAS Models for Realized Covariance Matrices
 event: Quantitative Finance and Finanancial Econometrics Conference
 event_url: https://qffe2022.sciencesconf.org/
 
-location: Marseille
+location: Aix-Marseille School of Economics
 address:
   street: 5 Boulevard Bourdet
   city: Marseille
