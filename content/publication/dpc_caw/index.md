@@ -32,7 +32,7 @@ publication: In *Quantitative Finance*
 abstract: We propose a new dynamic principal component CAW model (DPC-CAW) for time-series of high-dimensional realized covariance matrices of asset returns (up to 100 assets). The model performs a spectral decomposition of the scale matrix of a central Wishart distribution and assumes independent dynamics for the principal components' variances and the eigenvector processes. A three-step estimation procedure makes the model applicable to high-dimensional covariance matrices. We analyze the finite sample properties of the estimation approach and provide an empirical application to realized covariance matrices for 100 assets. The DPC-CAW model has particularly good forecasting properties and outperforms its competitors for realized covariance matrices.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: [Realized volatility, Covariance matrix, Spectral decomposition, Time-series models]
 
