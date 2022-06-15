@@ -34,7 +34,7 @@ abstract: We propose a new dynamic principal component CAW model (DPC-CAW) for t
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Realized volatility, Covariance matrix, Spectral decomposition, Time-series models]
+tags: [Realized Volatility, Covariance Matrix, Spectral Decomposition, Time-Series Models]
 
 # Display this page in the Featured widget?
 featured: true
