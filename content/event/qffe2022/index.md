@@ -16,8 +16,8 @@ abstract: 'Realized covariance matrices (RCs) are an important input to asses th
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-06-15T10:15:00Z'
-date_end: '2022-06-15T10:45:00Z'
+date: '2022-06-16T10:15:00Z'
+date_end: '2022-06-16T10:45:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
