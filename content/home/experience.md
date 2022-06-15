@@ -30,7 +30,7 @@ experience:
     date_start: '2017-04-01'
     date_end: ''
     description: |2-
-        Taught
+        Teaching tutorials in
 
         * Advanced Econometrics,
         * Financial Econometrics,
