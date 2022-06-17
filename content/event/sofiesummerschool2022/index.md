@@ -1,5 +1,5 @@
 ---
-title: Probability Distributions and GAS Models for Realized Covariance Matrices
+title: Probability Distributions and Generalized Autoregressive Score Models for Realized Covariance Matrices
 
 event: SoFiE Financial Econometrics Summer School 2022 at Brussels
 event_url: https://calendar.time.ly/um7txyzq/stream;event=68728500;instance=20220620210000
