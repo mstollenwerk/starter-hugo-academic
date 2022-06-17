@@ -40,7 +40,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'rc_distribution_qffe_2022_06_14.pdf'
 url_video: ''
 
 # Markdown Slides (optional).

@@ -30,7 +30,7 @@ education:
     year: 2017 - Present
   - course: Guest Student
     institution: Mannheim University, Graduate School of Economics
-    year: 2017-2018
+    year: 2017 - 2018
   - course: MSc in Economics
     institution: University of Cologne
     year: 2016
