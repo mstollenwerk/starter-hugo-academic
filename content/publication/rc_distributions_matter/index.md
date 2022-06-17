@@ -48,7 +48,7 @@ url_code: 'https://github.com/mstollenwerk/MATLAB'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'rc_distribution_qffe_2022_06_14.pdf'
 url_source: ''
 url_video: ''
 

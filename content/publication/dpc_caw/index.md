@@ -49,7 +49,7 @@ url_code: 'https://github.com/mstollenwerk/dpc_caw'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://1drv.ms/b/s!AqfGZCOvmng8h9wLrhkkMedkM0HGrg'
+url_slides: 'dpc_caw_presentation.pdf'
 url_source: ''
 url_video: ''
 
