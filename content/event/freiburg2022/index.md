@@ -1,5 +1,5 @@
 ---
-title: Probability Distributions and GAS Models for Realized Covariance Matrices
+title: Probability Distributions and GAS Models for Realized Covariance Matrices.
 
 event: Forschungsseminar
 event_url:
