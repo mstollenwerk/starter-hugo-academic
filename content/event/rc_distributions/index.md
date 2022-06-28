@@ -41,7 +41,7 @@ featured: false
 #   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "rc_distribution_cfe_2021_12_19.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
