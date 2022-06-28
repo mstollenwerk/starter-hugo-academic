@@ -1,5 +1,5 @@
 ---
-title: Probability Distributions and GAS Models for Realized Covariance Matrices.
+title: Probability Distributions and GAS Models for Realized Covariance Matrices
 
 event: Forschungsseminar, Lehrstuhl für Statistik und Ökonometrie
 event_url: https://www.econometrics.uni-freiburg.de/de
@@ -21,7 +21,7 @@ date_end: '2022-07-21T15:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-06-28T16:49:00Z'
+publishDate: '2022-06-27T16:49:00Z'
 
 authors: [Michael Stollenwerk]
 tags: []
