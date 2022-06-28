@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-06-28T16:49:00Z'
 
-authors: []
+authors: [Michael Stollenwerk]
 tags: []
 
 # Is this a featured talk? (true/false)
