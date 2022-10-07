@@ -1,5 +1,5 @@
 ---
-title: 'Probability Distributions and GAS Models for Realized Covariance Matrices'
+title: 'Generalized Autoregressive Score Models for Realized Covariance Matrices'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -28,7 +28,7 @@ publication_types: ['3']
 #publication: In *Quantitative Finance*
 #publication_short: In *QF*
 
-abstract: Realized covariance matrices (RCs) are an important input to asses the risks involved in different investment allocations and it is thus useful to model and forecast them. To this end generalized autoregressive score (GAS) models are employed in this paper. These models are ideal for comparing different probability distributions in terms of their ability to model and forecast RCs, since the dynamic parameters of the conditional observation density are updated by incorporating the shape of the distribution itself (via the scaled score of the log-likelihood). All probability distributions so far applied to time series of RCs in the literature are compared and it is shown how they are related to each other. Furthermore a novel family of probability distribution, which has a property called "tail homogeneity", is derived and added to the comparison. The necessary inputs for the GAS models (Fisher information matrix and score) are derived for all distributions. An in-sample fit comparison confirms previous results that "fat-tailed" distributions outperform others and shows that the novel distribution family achieves very good fit. Out-of-sample forecasting comparisons further corroborate the excellent performance of the novel distribution family.
+abstract: Realized covariance matrices (RCs) are an important input to asses the risks involved in different investment allocations and it is thus useful to model and forecast them. To this end generalized autoregressive score (GAS) models are employed in this paper. These models are ideal for comparing different probability distributions in terms of their ability to model and forecast RCs, since the dynamic parameters of the conditional observation density are updated by incorporating the shape of the distribution itself (via the scaled score of the log-likelihood). All probability distributions so far applied to time series of RCs in the literature are considered. The necessary inputs for the GAS models (Fisher information matrix and score) are derived for all distributions. An in-sample fit comparison confirms previous results that "fat-tailed" distributions outperform others and shows that the novel distribution family achieves very good fit. Out-of-sample forecasting comparisons further corroborate the excellent performance of the novel distribution family.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,7 +44,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/mstollenwerk/MATLAB'
+url_code: 'https://github.com/mstollenwerk/MATLAB/'
 url_dataset: ''
 url_poster: ''
 url_project: ''
