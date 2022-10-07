@@ -26,12 +26,12 @@ content:
 
   # Contact details (edit or remove options as required)
   email: michael.stollenwerk@live.com
-  phone: +49 (0) 6221 - 54 2930
-  address:
-    street: Bergheimer Strasse 58
-    city: Heidelberg
-    postcode: '69120'
-    country: Germany
+#  phone: +49 (0) 6221 - 54 2930
+#  address:
+#    street: Bergheimer Strasse 58
+#    city: Heidelberg
+#    postcode: '69120'
+#    country: Germany
 #    country_code: GER
 #  coordinates:
 #    latitude: '37.4275'
