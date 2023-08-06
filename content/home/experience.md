@@ -53,5 +53,5 @@ experience:
         Teaching: *Inferential Statistics*.
 
 design:
-  columns: '2'
+  columns: '3'
 ---
