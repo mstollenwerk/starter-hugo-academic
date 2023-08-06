@@ -26,6 +26,7 @@ experience:
     company: Pictet Asset Management
     date_start: '2023-05-01'
     date_end: ''
+    description: I am part of the Fixed Income Investment Risk team. Our mission is to enhance the decisions of investment teams by providing quantitative analyses.
 
   - title: Research Associate
     company: Heidelberg University
