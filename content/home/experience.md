@@ -27,6 +27,7 @@ experience:
     date_start: '2023-05-01'
     date_end: ''
     location: Geneva, Switzerland
+    company_logo: Pictet
     description: I am part of the Fixed Income Investment Risk team. Our mission is to enhance the decisions of investment teams by providing quantitative analyses.
 
   - title: Research Associate
