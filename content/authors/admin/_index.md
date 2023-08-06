@@ -60,7 +60,7 @@ social:
   link: https://stackexchange.com/users/5189435/stollenm?tab=accounts
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/michael-stollenwerk-0642338a/
+  link: https://www.linkedin.com/in/dr-michael-stollenwerk-0642338a
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
