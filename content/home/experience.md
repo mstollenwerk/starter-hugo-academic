@@ -25,13 +25,13 @@ experience:
  - title: Investment Risk Analyst
     company: Pictet Asset Management
     company_url: ''
-    company_logo: 
+    company_logo: SiegelUniHeidelberg
     location: Switzerland
     date_start: '2017-05-01'
     date_end: ''
     description: |2-
         I am part of the Fixed Income Investment Risk team. Our mission is to enhance the decisions of investment teams by providing quantitative analyses.
-        
+
   - title: Research Associate
     company: Heidelberg University
     company_url: ''
