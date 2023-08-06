@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD Student
     institution: Heidelberg University, Alfred-Weber-Institut for Economcis
-    year: 2017 - Present
+    year: 2017 - 2023
   - course: Guest Student
     institution: Mannheim University, Graduate School of Economics
     year: 2017 - 2018
