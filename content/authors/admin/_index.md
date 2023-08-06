@@ -6,20 +6,20 @@ title: Michael Stollenwerk
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Economics
+role: Investment Risk Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Heidelberg University
-  url: https://www.uni-heidelberg.de/fakultaeten/wiso/awi/index.html
+- name: Pictet Asset Management
+  url: https://am.pictet/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are financial econometrics, specifically quantitative risk management and portfolio optimization.
+bio: Investment Risk Analyst; enhancing the decisions of investment teams by providing quantitative analyses.
 
 # Interests to show in About widget
 interests:
-- Financial Econometrics
 - Risk Management
+- Financial Econometrics
 - Portfolio Optimization
 
 # Education to show in About widget
