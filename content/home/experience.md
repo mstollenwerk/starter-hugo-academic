@@ -22,11 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
- - title: Investment Risk Analyst
-    company: Pictet Asset Management
-    date_start: '2023-05-01'
-    date_end: ''
-
   - title: Research Associate
     company: Heidelberg University
     company_url: ''
