@@ -28,7 +28,7 @@ experience:
     company_logo: SiegelUniHeidelberg
     location: Germany
     date_start: '2017-04-01'
-    date_end: ''
+    date_end: '2022-09-31'
     description: |2-
         Teaching: *Advanced Econometrics, Financial Econometrics, Empirical Finance, Inferential Statistics, Advanced Macroeconomics and Empirical Economics*.
 
