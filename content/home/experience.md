@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: SiegelUniHeidelberg
     location: Switzerland
-    date_start: '2017-05-01'
+    date_start: '2023-05-01'
     date_end: ''
     description: |2-
         I am part of the Fixed Income Investment Risk team. Our mission is to enhance the decisions of investment teams by providing quantitative analyses.
