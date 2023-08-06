@@ -24,9 +24,9 @@ date_format: Jan 2006
 experience:
   - title: Investment Risk Manager
     company: Pictet Asset Management
-    date_start: '2022-10-01'
+    date_start: '2023-05-01'
     date_end: ''
-    
+
   - title: Research Associate
     company: Heidelberg University
     company_url: ''
