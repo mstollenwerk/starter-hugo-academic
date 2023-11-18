@@ -76,6 +76,6 @@ email: ""
 highlight_name: true
 ---
 
-I am an Investment Risk Analyst at Pictet Asset Management in Geneva, Switzerland. I am part of the Fixed Income Investment Risk team. Our mission is to enhance the decisions of investment teams by providing quantitative analyses. Previously I obtained a PhD in Economics, specifically in Financial Econometrics. I develope models for time series of realized (co)variances of financial assets. These models are useful in portfolio optimization, asset pricing, and quantitative risk management.
+I am an Investment Risk Analyst at Pictet Asset Management in Geneva, Switzerland. I am part of the Fixed Income Investment Risk team. Our mission is to enhance the decisions of investment teams by providing quantitative analyses. Previously I obtained a PhD in Economics, specifically in Financial Econometrics. I develop models for time series of realized (co)variances of financial assets. These models are useful in portfolio optimization, asset pricing, and quantitative risk management.
 
 [//]: # ({{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)
