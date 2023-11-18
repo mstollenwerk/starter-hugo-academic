@@ -12,7 +12,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: "2022-04-15T00:00:00Z"
+date: "2023-11-18T00:00:00Z"
 #doi: "https://doi.org/10.1080/14697688.2019.1701197"
 
 # Schedule page publish date (NOT publication's date).
@@ -43,7 +43,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'Generalized_Autoregressive_Score_Models_for_Realized_Covariance_Matrices.pdf'
+url_pdf: 'https://github.com/mstollenwerk/starter-hugo-academic/tree/main/static/uploads/Generalized_Autoregressive_Score_Models_for_Realized_Covariance_Matrices.pdf'
 url_code: 'https://github.com/mstollenwerk/MATLAB/tree/sigmarecursion/toolboxes_own/gas'
 url_dataset: ''
 url_poster: ''
