@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '../../static/uploads/Noncentral_F.pdf'
+url_pdf: 'https://github.com/mstollenwerk/starter-hugo-academic/tree/main/static/uploads/Noncentral_F.pdf'
 url_code: 'https://github.com/mstollenwerk/MATLAB/'
 url_dataset: ''
 url_poster: ''
