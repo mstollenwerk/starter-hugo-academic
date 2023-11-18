@@ -43,7 +43,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'Generalized_Autoregressive_Score_Models_for_Realized_Covariance_Matrices.pdf'
 url_code: 'https://github.com/mstollenwerk/MATLAB/tree/sigmarecursion/toolboxes_own/gas'
 url_dataset: ''
 url_poster: ''
