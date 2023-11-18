@@ -44,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'dpc_caw.pdf'
 url_code: 'https://github.com/mstollenwerk/dpc_caw'
 url_dataset: ''
 url_poster: ''
