@@ -7,7 +7,7 @@ title: 'Probability Distributions for Realized Covariance Measures'
 authors:
   - admin
 
-date: "2022-10-05T00:00:00Z"
+date: "2023-11-18T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-05T00:00:00Z"
