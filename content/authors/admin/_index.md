@@ -6,15 +6,15 @@ title: Michael Stollenwerk
 superuser: true
 
 # Role/position/tagline
-role: Investment Risk Analyst
+role: Investment Risk Manager
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Pictet Asset Management
+- name: Pictet Asset Manager
   url: https://am.pictet/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investment Risk Analyst; enhancing the decisions of investment teams by providing quantitative analyses.
+bio: Investment Risk Manager; enhancing the decisions of investment teams by providing quantitative analyses.
 
 # Interests to show in About widget
 interests:
